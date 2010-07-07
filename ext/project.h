@@ -34,7 +34,7 @@ See the file COPYING for complete licensing information.
 #include <string>
 #include <sstream>
 #include <stdexcept>
-
+#include <cstring>
 
 #ifdef OS_UNIX
 #include <signal.h>
