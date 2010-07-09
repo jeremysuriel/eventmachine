@@ -1,11 +1,11 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{jrmey-eventmachine}
-  s.version = "0.12.12"
+  s.name = %q{eventmachine}
+  s.version = "0.12.13"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Francis Cianfrocca", "Jeremy Suriel"]
+  s.authors = ["Francis Cianfrocca"]
   s.date = %q{2010-05-29}
   s.description = %q{EventMachine implements a fast, single-threaded engine for arbitrary network
 communications. It's extremely easy to use in Ruby. EventMachine wraps all
